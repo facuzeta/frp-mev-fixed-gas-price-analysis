@@ -1,0 +1,104 @@
+region1,region2,km
+Asia Pacific (Mumbai),Canada (Central),12082.52
+Asia Pacific (Mumbai),US West (N. California),13506.58
+Asia Pacific (Mumbai),Asia Pacific (Osaka),6354.92
+Asia Pacific (Mumbai),Asia Pacific (Seoul),5608.45
+Asia Pacific (Mumbai),Asia Pacific (Singapore),3910.32
+Asia Pacific (Mumbai),Asia Pacific (Sydney),10154.56
+Asia Pacific (Mumbai),Europe (Frankfurt),6568.77
+Asia Pacific (Mumbai),Europe (Ireland),7609.03
+Asia Pacific (Mumbai),Europe (London),7196.62
+Asia Pacific (Mumbai),Europe (Paris),7013.84
+Asia Pacific (Mumbai),Europe (Stockholm),6236.56
+Asia Pacific (Mumbai),South America (São Paulo),13765.47
+Asia Pacific (Mumbai),US West (Oregon),12847.49
+Asia Pacific (Osaka),Asia Pacific (Mumbai),6354.92
+Asia Pacific (Osaka),Asia Pacific (Seoul),821.16
+Asia Pacific (Osaka),Asia Pacific (Singapore),4955.99
+Asia Pacific (Seoul),Asia Pacific (Mumbai),5608.45
+Asia Pacific (Seoul),Asia Pacific (Osaka),821.16
+Asia Pacific (Singapore),Asia Pacific (Mumbai),3910.32
+Asia Pacific (Singapore),Asia Pacific (Osaka),4955.99
+Asia Pacific (Sydney),Asia Pacific (Mumbai),10154.56
+Asia Pacific (Osaka),Canada (Central),10625.93
+Asia Pacific (Osaka),US West (N. California),8641.01
+Asia Pacific (Seoul),Canada (Central),10550.88
+Asia Pacific (Seoul),US West (N. California),9027.05
+Asia Pacific (Singapore),Canada (Central),14805.05
+Asia Pacific (Singapore),US West (N. California),13584.62
+Asia Pacific (Sydney),Canada (Central),16030.95
+Asia Pacific (Sydney),Europe (Frankfurt),16483.08
+Asia Pacific (Sydney),Europe (Ireland),17215.37
+Asia Pacific (Sydney),Europe (London),16994.33
+Asia Pacific (Sydney),Europe (Paris),16960.6
+Asia Pacific (Sydney),Europe (Stockholm),15596.44
+Asia Pacific (Sydney),South America (São Paulo),13356.95
+Asia Pacific (Sydney),US West (N. California),11948.44
+Asia Pacific (Sydney),US West (Oregon),15212.93
+Canada (Central),Europe (Frankfurt),5843.11
+Canada (Central),Europe (Ireland),4758.16
+Canada (Central),Europe (London),5219.89
+Canada (Central),Europe (Paris),5503.68
+Canada (Central),Europe (Stockholm),5879.86
+Canada (Central),South America (São Paulo),8147.42
+Canada (Central),US West (N. California),4085.05
+Canada (Central),US West (Oregon),906.41
+Europe (Frankfurt),Europe (Ireland),1087.98
+Europe (Frankfurt),Europe (London),637.34
+Europe (Frankfurt),Europe (Paris),477.79
+Europe (Frankfurt),Europe (Stockholm),1186.9
+Europe (Frankfurt),South America (São Paulo),9829.29
+Europe (Frankfurt),US West (N. California),9132.83
+Europe (Frankfurt),US West (Oregon),6731.57
+Europe (Ireland),Europe (London),463.97
+Europe (Ireland),Europe (Paris),780.8
+Europe (Ireland),Europe (Stockholm),1628.86
+Europe (Ireland),South America (São Paulo),9392.12
+Europe (Ireland),US West (N. California),8176.27
+Europe (Ireland),US West (Oregon),5650.04
+Europe (London),Europe (Paris),342.74
+Europe (London),Europe (Stockholm),1433.25
+Europe (London),South America (São Paulo),9496.92
+Europe (London),US West (N. California),8616.64
+Europe (London),US West (Oregon),6113.02
+Europe (Paris),Europe (Stockholm),1543.66
+Europe (Paris),South America (São Paulo),9401.92
+Europe (Paris),US West (N. California),8952.86
+Europe (Paris),US West (Oregon),6401.98
+Europe (Stockholm),South America (São Paulo),10927.2
+Europe (Stockholm),US West (N. California),8620.75
+Europe (Stockholm),US West (Oregon),6706.34
+South America (São Paulo),US West (N. California),10433.48
+South America (São Paulo),US West (Oregon),8179.93
+US West (N. California),US West (Oregon),3331.06
+Asia Pacific (Osaka),South America (São Paulo),18752.91
+Asia Pacific (Osaka),US West (N. California),9385.53
+Asia Pacific (Osaka),US West (Oregon),10639.21
+Asia Pacific (Seoul),Asia Pacific (Singapore),4677.73
+Asia Pacific (Seoul),Asia Pacific (Sydney),8329.12
+Asia Pacific (Seoul),Canada (Central),11311.82
+Asia Pacific (Seoul),Europe (Frankfurt),8550.63
+Asia Pacific (Seoul),Europe (Ireland),8952.76
+Asia Pacific (Seoul),Europe (London),8858.61
+Asia Pacific (Seoul),Europe (Paris),8966.56
+Asia Pacific (Seoul),Europe (Stockholm),7432.55
+Asia Pacific (Seoul),South America (São Paulo),18342.48
+Asia Pacific (Seoul),US West (N. California),8672.93
+Asia Pacific (Seoul),US West (Oregon),10680.97
+Asia Pacific (Singapore),Asia Pacific (Sydney),6298.93
+Asia Pacific (Singapore),Canada (Central),9472.09
+Asia Pacific (Singapore),Europe (Frankfurt),10265.72
+Asia Pacific (Singapore),Europe (Ireland),11207.49
+Asia Pacific (Singapore),Europe (London),10855.47
+Asia Pacific (Singapore),Europe (Paris),10736.59
+Asia Pacific (Singapore),Europe (Stockholm),9645.28
+Asia Pacific (Singapore),South America (São Paulo),15985.61
+Asia Pacific (Singapore),US West (N. California),10039.17
+Asia Pacific (Singapore),US West (Oregon),15185.23
+Asia Pacific (Osaka),Asia Pacific (Sydney),7804.98
+Asia Pacific (Osaka),Canada (Central),12129.84
+Asia Pacific (Osaka),Europe (Frankfurt),9229.0
+Asia Pacific (Osaka),Europe (Ireland),9547.09
+Asia Pacific (Osaka),Europe (London),9492.39
+Asia Pacific (Osaka),Europe (Paris),9626.0
+Asia Pacific (Osaka),Europe (Stockholm),8083.12
